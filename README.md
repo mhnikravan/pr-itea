@@ -1,6 +1,6 @@
 # ITEA (Indirect Trust with Expert Advice)
 
-This repo will include an implementation of ITEA algorithm. The algorithm has been published in the paper "[Indirect Trust is Simple to Establish](https://www.ijcai.org/Proceedings/2019/446)" [1].
+This repo will include an implementation of **ITEA** algorithm. The algorithm has been published in the paper "[Indirect Trust is Simple to Establish](https://www.ijcai.org/Proceedings/2019/446)" [1].
 
 
 ## References
